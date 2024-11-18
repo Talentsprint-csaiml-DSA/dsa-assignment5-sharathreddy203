@@ -14,5 +14,5 @@ def min_coins(coins, target_amount):
 # Example usage
 # coins = [1, 4, 6, 9, 14]
 # target_amount = 26
-print(min_coins(coins, target_amount))  # Output: 3
+print(min_coins(coins, target_amount))
 
